@@ -1,0 +1,51 @@
+#name {
+    background-color:grey;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding: 5% 0%;
+}
+
+.contact {
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.info {
+    height: 15px;
+    width: 15px;
+}
+
+.top {
+    background-color: grey;
+    font-size: 25px;
+    font-family: Helvetica;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+.time {
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+li {
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+.school {
+    font-family: Helvetica;
+    font-weight: bold;
+}

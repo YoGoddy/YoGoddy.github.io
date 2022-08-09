@@ -1,0 +1,51 @@
+.name {
+    font-family: Helvetica;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.head, .head1, .head2, .head3, .head4{
+    font-family: Helvetica;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.info {
+    font-family: Calibri;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-family: Calibri;
+}
+
+p, li, strong {
+    font-family: Calibri;
+}
+
+p, strong {
+    line-height: 60%;
+}
+
+.head1 {
+    display: inline;
+    float: center;
+}
+
+.head2 {
+    display: inline;
+    float: center;
+}
+
+.head3 {
+    display: inline;
+    float: center;
+}
+
+.head4 {
+    display: inline;
+    float: center;
+}

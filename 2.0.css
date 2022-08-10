@@ -30,22 +30,16 @@ p, strong {
     line-height: 60%;
 }
 
-.head1 {
-    display: inline;
-    float: center;
+.row1, .row2, .row3 {
+    font-family: Calibri;
 }
 
-.head2 {
-    display: inline;
-    float: center;
+table.center {
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.head3 {
-    display: inline;
-    float: center;
-}
-
-.head4 {
-    display: inline;
-    float: center;
+table {
+    border-collapse: separate;
+    border-spacing: 150px 0;
 }

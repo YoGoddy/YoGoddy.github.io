@@ -5,7 +5,7 @@
     font-size: 50px;
 }
 
-.head, .head1, .head2, .head3, .head4{
+.head {
     font-family: Helvetica;
     font-variant: small-caps;
     text-decoration: underline;
@@ -20,10 +20,12 @@
 
 p {
     font-family: Calibri;
+    font-size: 18px;
 }
 
 p, li, strong {
     font-family: Calibri;
+    font-sixe: 18px;
 }
 
 p, strong {
@@ -31,8 +33,9 @@ p, strong {
     min-height: 100%;
 }
 
-.row1, .row2, .row3, .row4{
+.row1, .row2, .row3, .row4 {
     font-family: Calibri;
+    font-size: 18px;
 }
 
 table.center {

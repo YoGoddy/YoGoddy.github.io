@@ -10,6 +10,7 @@
     font-variant: small-caps;
     text-decoration: underline;
     font-size: 25px;
+    line-height: 70%;
 }
 
 .info {
@@ -29,11 +30,11 @@ p, li, strong {
 }
 
 p, strong {
-    line-height: 100%;
-    min-height: 100%;
+    line-height: 40%;
+    min-height: 40%;
 }
 
-.row1, .row2, .row3, .row4 {
+.row1, .row2, .row3 {
     font-family: Calibri;
     font-size: 18px;
 }
@@ -45,5 +46,37 @@ table.center {
 
 table {
     border-collapse: separate;
-    border-spacing: 120px 0;
+    border-spacing: 150px 0;
+}
+
+td {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+section {
+    line-height: 120%;
+    min-height: 120%;
+}
+
+.head th h2 {
+    line-height: 10%;
+    min-height: 10%;
+}
+
+p li {
+    line-height: 60%;
+    min-height: 60%;
+}
+
+.sum {
+    line-height: 100%;
+}
+
+p, em {
+    line-height: 5%;
+    min-height: 5%;
 }

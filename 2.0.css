@@ -30,8 +30,8 @@ p, li, strong {
 }
 
 p, strong {
-    line-height: 40%;
-    min-height: 40%;
+    line-height: 50%;
+    min-height: 50%;
 }
 
 h2 {
@@ -44,8 +44,8 @@ section {
 }
 
 p li {
-    line-height: 60%;
-    min-height: 60%;
+    line-height: 50%;
+    min-height: 50%;
 }
 
 .sum {
@@ -54,6 +54,6 @@ p li {
 }
 
 p, em {
-    line-height: 5%;
-    min-height: 5%;
+    line-height: 50%;
+    min-height: 50%;
 }

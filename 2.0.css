@@ -3,14 +3,7 @@
     text-align: center;
     text-transform: uppercase;
     font-size: 50px;
-}
-
-.head {
-    font-family: Helvetica;
-    font-variant: small-caps;
-    text-decoration: underline;
-    font-size: 25px;
-    line-height: 70%;
+    line-height: 20%;
 }
 
 .info {
@@ -19,41 +12,41 @@
     text-align: center;
 }
 
-p {
-    font-family: Calibri;
-    font-size: 18px;
-}
-
-p, li, strong {
-    font-family: Calibri;
-    font-size: 18px;
-}
-
-p, strong {
-    line-height: 50%;
-    min-height: 50%;
-}
-
-h2 {
+.head {
+    font-family: Helvetica;
+    font-variant: small-caps;
+    text-decoration: underline;
     font-size: 25px;
+    line-height: 50%;
 }
 
-section {
+#highschool {
+    line-height: 50%;
+}
+
+#college {
+    line-height: 50%;
+}
+
+.employ {
+    line-height: 50%;
+}
+
+.work {
+    line-height: 50%;
+}
+
+strong {
+    font-family: Calibri;
+    font-size: 20px;
+}
+
+p, em, li {
+    font-family: Calibri;
+    font-size: 15px;
+}
+
+li{
     line-height: 120%;
-    min-height: 120%;
 }
 
-p li {
-    line-height: 50%;
-    min-height: 50%;
-}
-
-.sum {
-    line-height: 100%;
-    min-height: 100%;
-}
-
-p, em {
-    line-height: 50%;
-    min-height: 50%;
-}

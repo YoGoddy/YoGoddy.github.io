@@ -50,10 +50,9 @@ li{
     line-height: 120%;
 }
 
-@meta only screen and (min-width: 720px) {
+@meta only screen and (min-width: 720px) and (min-height: 1080px) and (orientation: portrait)  {
     body {
         font-size: 16px;
     }
 }
-
 

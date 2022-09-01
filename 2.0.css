@@ -53,7 +53,7 @@ li{
 @meta only screen and (min-width: 280px) and (min-height: 600px) and (orientation: portrait)  {
     body {
         font-size: 16px;
-        line-height: 30%;
+        line-height: 370%;
     }
 }
 
